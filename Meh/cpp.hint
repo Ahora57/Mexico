@@ -1,0 +1,2 @@
+#define MEH_API __declspec(dllexport)
+#define MEH_API __declspec(dllimport)
